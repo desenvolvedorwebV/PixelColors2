@@ -9,7 +9,7 @@ const cores = {
     8: "#df0000",
     9: "#ff7f91",
     10: "#620000",
-    G4: "#E3C2A2"
+    "G4": "#E3C2A2"
 };
 
 let niveis = [];

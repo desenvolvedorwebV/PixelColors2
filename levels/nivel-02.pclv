@@ -1,12 +1,3 @@
-Claro! Basta substituir:
-
-cor:2 → cor:"5"
-
-cor:1 → cor:"H5"
-
-
-Fica assim:
-
 {
   "nome":"Coração",
   "pixels":[
